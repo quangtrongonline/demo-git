@@ -1,2 +1,1 @@
-# demo-git
-Tạo thử Repository đầu tiên
+"#Huong dan Git co ban" 
