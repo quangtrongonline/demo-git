@@ -1,1 +1,3 @@
 Tao file text dau tien
+==
+chinh sua file 1
