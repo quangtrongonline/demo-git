@@ -1,0 +1,35 @@
+[33mcommit 09e89eae18bcd0af767d8a8c72d68350a539e4f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mbranch-moi[m[33m)[m
+Author: QuangTrongOnline <quangtrongonline@gmail.com>
+Date:   Tue Sep 12 11:29:24 2017 +0700
+
+    add file branch-moi.txt
+
+[33mcommit 375ef6489a021662d8c5144809f1cd963c6c1645[m[33m ([m[1;31mtrong-remote/master[m[33m, [m[1;31mtrong-remote/HEAD[m[33m)[m
+Author: QuangTrongOnline <quangtrongonline@gmail.com>
+Date:   Tue Sep 12 11:01:16 2017 +0700
+
+    change filemoi.txt and add 3 file
+
+[33mcommit e0027380071ae76e154c4b86a6ca7710742565c8[m
+Author: QuangTrongOnline <quangtrongonline@gmail.com>
+Date:   Tue Sep 12 10:33:46 2017 +0700
+
+    add text2.txt
+
+[33mcommit 7033081da158433b93543d024b630c34493d76eb[m
+Author: QuangTrongOnline <quangtrongonline@gmail.com>
+Date:   Tue Sep 12 09:23:21 2017 +0700
+
+    Create file-moi.txt
+
+[33mcommit ee64493b21ba8bc5927a6e28cf85ed9015a15492[m
+Author: QuangTrongOnline <quangtrongonline@gmail.com>
+Date:   Tue Sep 12 09:20:50 2017 +0700
+
+    Change README.md
+
+[33mcommit 006e890a331855e0e98d9b5061bfbdf46b151df5[m
+Author: QuangTrọngOnline <quangtrongonline@gmail.com>
+Date:   Tue Sep 12 09:17:53 2017 +0700
+
+    Initial commit
